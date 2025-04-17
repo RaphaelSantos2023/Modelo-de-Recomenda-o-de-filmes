@@ -2,6 +2,7 @@
 Trabalho da matéria de inteligência computacional da faculdade Unifan sobre criar um modelo com aprendizado de máquina para recomendar filmes a usuários
 
 Para rodar, deve-se extrair o zip e colocar os .csv chamados "rattings.csv" e "movies.csv" no mesmo diretório que o código
+Pagina para baixar os datasets: [arquivos](https://grouplens.org/datasets/movielens/)
 
 Bibliotecas usadas:
 - pandas
@@ -22,5 +23,3 @@ Requerimentos:
   Windows 10 SDK
     Ou
   baixar o arquivo scikit_surprise‑1.1.1‑cp310‑cp310‑win_amd64.whl
-
-Pagina em que foram extraidos os datasets usados: [arquivos](https://grouplens.org/datasets/movielens/)
