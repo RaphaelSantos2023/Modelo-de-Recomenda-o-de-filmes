@@ -1,5 +1,6 @@
 # Modelo-de-Recomenda-o-de-filmes
 Trabalho da matéria de inteligência computacional da faculdade Unifan sobre criar um modelo com aprendizado de máquina para recomendar filmes a usuários
+Equipe: Raphael Santos Oliveira, Micael de Pinho Reis, Erick Ruan Santos Arão Maurício e Láiza Naline André de Oliveira
 
 Para rodar, deve-se extrair o zip e colocar os .csv chamados "rattings.csv" e "movies.csv" no mesmo diretório que o código
 Pagina para baixar os datasets: [arquivos](https://grouplens.org/datasets/movielens/)
